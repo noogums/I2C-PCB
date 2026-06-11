@@ -19,3 +19,12 @@ Measurements: (updated once board comes in)
 
 Schematic:
   <img width="1066" height="1028" alt="image" src="https://github.com/user-attachments/assets/7b83f56d-7a9b-4d56-acb7-b5bc86009c7a" />
+
+PCB:
+  -Top:
+    <img width="904" height="965" alt="image" src="https://github.com/user-attachments/assets/4f95b3fb-d573-448a-9ea4-2aebfe449503" />
+
+  -Back:
+    <img width="919" height="970" alt="image" src="https://github.com/user-attachments/assets/a4967fb1-f5e9-4709-a73f-9979e3c80a29" />
+
+
